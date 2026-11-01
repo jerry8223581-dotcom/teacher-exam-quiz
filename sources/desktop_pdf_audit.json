@@ -1,0 +1,686 @@
+[
+  {
+    "file": "D:\\Users\\Jerry\\Desktop\\教師資格考試題庫\\04_110國民小學_課程教學與評量(試題本).pdf",
+    "year": 110,
+    "kind": "questions",
+    "sha256": "797269b2d55472fb22dba6af77fd31e127b885f3de590ead4ec20f6be47fc332",
+    "pages": 9,
+    "page_checks": [
+      {
+        "page": 1,
+        "characters": 404,
+        "rendered": true,
+        "images": 0,
+        "drawings": 13,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 2,
+        "characters": 1106,
+        "rendered": true,
+        "images": 0,
+        "drawings": 16,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 3,
+        "characters": 1107,
+        "rendered": true,
+        "images": 0,
+        "drawings": 4,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 4,
+        "characters": 1366,
+        "rendered": true,
+        "images": 0,
+        "drawings": 73,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 5,
+        "characters": 758,
+        "rendered": true,
+        "images": 1,
+        "drawings": 6,
+        "private_use": 2,
+        "replacement": 0
+      },
+      {
+        "page": 6,
+        "characters": 1214,
+        "rendered": true,
+        "images": 0,
+        "drawings": 200,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 7,
+        "characters": 893,
+        "rendered": true,
+        "images": 0,
+        "drawings": 19,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 8,
+        "characters": 947,
+        "rendered": true,
+        "images": 0,
+        "drawings": 58,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 9,
+        "characters": 1,
+        "rendered": true,
+        "images": 0,
+        "drawings": 0,
+        "private_use": 0,
+        "replacement": 0
+      }
+    ],
+    "answers_count": null,
+    "same_as_download": true,
+    "unchanged": true
+  },
+  {
+    "file": "D:\\Users\\Jerry\\Desktop\\教師資格考試題庫\\110國民小學_課程教學與評量(選擇題參考答案)_公告用.pdf",
+    "year": 110,
+    "kind": "answers",
+    "sha256": "d58bc9000a9b63289d48309089ca1ee29f3ad8e706e0f92f6a7b450fc8511d11",
+    "pages": 1,
+    "page_checks": [
+      {
+        "page": 1,
+        "characters": 419,
+        "rendered": true,
+        "images": 0,
+        "drawings": 428,
+        "private_use": 0,
+        "replacement": 0
+      }
+    ],
+    "answers_count": 25,
+    "same_as_download": true,
+    "unchanged": true
+  },
+  {
+    "file": "D:\\Users\\Jerry\\Desktop\\教師資格考試題庫\\07_111_國民小學_課程教學與評量(試題本)_公布用_正卷.pdf",
+    "year": 111,
+    "kind": "questions",
+    "sha256": "747fc08be72107670d48e9928f70803a9cc68ec7be5cbdb6cd48b96eae9408d3",
+    "pages": 9,
+    "page_checks": [
+      {
+        "page": 1,
+        "characters": 404,
+        "rendered": true,
+        "images": 1,
+        "drawings": 13,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 2,
+        "characters": 1224,
+        "rendered": true,
+        "images": 1,
+        "drawings": 14,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 3,
+        "characters": 1107,
+        "rendered": true,
+        "images": 1,
+        "drawings": 1,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 4,
+        "characters": 1359,
+        "rendered": true,
+        "images": 1,
+        "drawings": 67,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 5,
+        "characters": 1085,
+        "rendered": true,
+        "images": 1,
+        "drawings": 86,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 6,
+        "characters": 846,
+        "rendered": true,
+        "images": 1,
+        "drawings": 63,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 7,
+        "characters": 689,
+        "rendered": true,
+        "images": 2,
+        "drawings": 14,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 8,
+        "characters": 883,
+        "rendered": true,
+        "images": 2,
+        "drawings": 1,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 9,
+        "characters": 463,
+        "rendered": true,
+        "images": 1,
+        "drawings": 68,
+        "private_use": 0,
+        "replacement": 0
+      }
+    ],
+    "answers_count": null,
+    "same_as_download": true,
+    "unchanged": true
+  },
+  {
+    "file": "D:\\Users\\Jerry\\Desktop\\教師資格考試題庫\\08_111_國民小學_課程教學與評量(選擇題參考答案)_公布用_正卷.pdf",
+    "year": 111,
+    "kind": "answers",
+    "sha256": "f17c0e9b0b3380419c4bbfe8dbb470675d82b11d2dcacef7abfcfdc724117206",
+    "pages": 1,
+    "page_checks": [
+      {
+        "page": 1,
+        "characters": 424,
+        "rendered": true,
+        "images": 1,
+        "drawings": 424,
+        "private_use": 0,
+        "replacement": 0
+      }
+    ],
+    "answers_count": 25,
+    "same_as_download": true,
+    "unchanged": true
+  },
+  {
+    "file": "D:\\Users\\Jerry\\Desktop\\教師資格考試題庫\\10-1_112國民小學_課程教學與評量(試題本)_公布用_正卷(公布用).pdf",
+    "year": 112,
+    "kind": "questions",
+    "sha256": "388be8497bc60ccfbbc14040fc0b59a2751a3084cd0fc6c3f6b8a0e5d09faf46",
+    "pages": 8,
+    "page_checks": [
+      {
+        "page": 1,
+        "characters": 404,
+        "rendered": true,
+        "images": 0,
+        "drawings": 13,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 2,
+        "characters": 1225,
+        "rendered": true,
+        "images": 0,
+        "drawings": 13,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 3,
+        "characters": 1019,
+        "rendered": true,
+        "images": 0,
+        "drawings": 1,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 4,
+        "characters": 1213,
+        "rendered": true,
+        "images": 0,
+        "drawings": 1,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 5,
+        "characters": 995,
+        "rendered": true,
+        "images": 0,
+        "drawings": 2,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 6,
+        "characters": 1037,
+        "rendered": true,
+        "images": 0,
+        "drawings": 104,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 7,
+        "characters": 838,
+        "rendered": true,
+        "images": 0,
+        "drawings": 14,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 8,
+        "characters": 810,
+        "rendered": true,
+        "images": 0,
+        "drawings": 78,
+        "private_use": 0,
+        "replacement": 0
+      }
+    ],
+    "answers_count": null,
+    "same_as_download": true,
+    "unchanged": true
+  },
+  {
+    "file": "D:\\Users\\Jerry\\Desktop\\教師資格考試題庫\\10-2_112國民小學_課程教學與評量(選擇題參考答案)_公布用_正卷.pdf",
+    "year": 112,
+    "kind": "answers",
+    "sha256": "d2e1cc86de0dc03c2aaebcd352e3558ee2dd2712baad1115a0712141f7df7fc5",
+    "pages": 1,
+    "page_checks": [
+      {
+        "page": 1,
+        "characters": 426,
+        "rendered": true,
+        "images": 5,
+        "drawings": 424,
+        "private_use": 0,
+        "replacement": 0
+      }
+    ],
+    "answers_count": 25,
+    "same_as_download": true,
+    "unchanged": true
+  },
+  {
+    "file": "D:\\Users\\Jerry\\Desktop\\教師資格考試題庫\\10-1_113國民小學_課程教學與評量_正卷_浮水印.pdf",
+    "year": 113,
+    "kind": "questions",
+    "sha256": "8a2b8c27b7ba0b14533c93bb28a171cad207cd1fa19063ba3a237c4a83be7b2b",
+    "pages": 10,
+    "page_checks": [
+      {
+        "page": 1,
+        "characters": 527,
+        "rendered": true,
+        "images": 4,
+        "drawings": 19,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 2,
+        "characters": 1329,
+        "rendered": true,
+        "images": 4,
+        "drawings": 12,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 3,
+        "characters": 914,
+        "rendered": true,
+        "images": 4,
+        "drawings": 1,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 4,
+        "characters": 1051,
+        "rendered": true,
+        "images": 4,
+        "drawings": 1,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 5,
+        "characters": 1031,
+        "rendered": true,
+        "images": 4,
+        "drawings": 1,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 6,
+        "characters": 1245,
+        "rendered": true,
+        "images": 4,
+        "drawings": 0,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 7,
+        "characters": 769,
+        "rendered": true,
+        "images": 4,
+        "drawings": 99,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 8,
+        "characters": 645,
+        "rendered": true,
+        "images": 4,
+        "drawings": 150,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 9,
+        "characters": 1135,
+        "rendered": true,
+        "images": 4,
+        "drawings": 59,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 10,
+        "characters": 456,
+        "rendered": true,
+        "images": 5,
+        "drawings": 59,
+        "private_use": 0,
+        "replacement": 0
+      }
+    ],
+    "answers_count": null,
+    "same_as_download": true,
+    "unchanged": true
+  },
+  {
+    "file": "D:\\Users\\Jerry\\Desktop\\教師資格考試題庫\\10-2_113國民小學_課程教學與評量(選擇題參考答案)_公告用_正卷_浮水印.pdf",
+    "year": 113,
+    "kind": "answers",
+    "sha256": "6f9c7c5198cc445d5d149c829854cf8f2358e56b9054a869db231986fcad9ae2",
+    "pages": 1,
+    "page_checks": [
+      {
+        "page": 1,
+        "characters": 425,
+        "rendered": true,
+        "images": 5,
+        "drawings": 424,
+        "private_use": 0,
+        "replacement": 0
+      }
+    ],
+    "answers_count": 25,
+    "same_as_download": true,
+    "unchanged": true
+  },
+  {
+    "file": "D:\\Users\\Jerry\\Desktop\\教師資格考試題庫\\114_國民小學_課程教學與評量(試題本)_公布用.pdf",
+    "year": 114,
+    "kind": "questions",
+    "sha256": "e4080ffa22edbaa6da882abe2bb054e1715db21c8b3a7eacbc60fdd2fac10db1",
+    "pages": 9,
+    "page_checks": [
+      {
+        "page": 1,
+        "characters": 607,
+        "rendered": true,
+        "images": 1,
+        "drawings": 12,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 2,
+        "characters": 1110,
+        "rendered": true,
+        "images": 1,
+        "drawings": 12,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 3,
+        "characters": 1157,
+        "rendered": true,
+        "images": 1,
+        "drawings": 2,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 4,
+        "characters": 1036,
+        "rendered": true,
+        "images": 1,
+        "drawings": 1,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 5,
+        "characters": 797,
+        "rendered": true,
+        "images": 1,
+        "drawings": 13,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 6,
+        "characters": 1050,
+        "rendered": true,
+        "images": 1,
+        "drawings": 13,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 7,
+        "characters": 1306,
+        "rendered": true,
+        "images": 1,
+        "drawings": 156,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 8,
+        "characters": 889,
+        "rendered": true,
+        "images": 2,
+        "drawings": 13,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 9,
+        "characters": 698,
+        "rendered": true,
+        "images": 1,
+        "drawings": 127,
+        "private_use": 0,
+        "replacement": 0
+      }
+    ],
+    "answers_count": null,
+    "same_as_download": true,
+    "unchanged": true
+  },
+  {
+    "file": "D:\\Users\\Jerry\\Desktop\\教師資格考試題庫\\114_國民小學_課程教學與評量(選擇題參考答案)_公布用.pdf",
+    "year": 114,
+    "kind": "answers",
+    "sha256": "c3abd4d093235310580ac3434a98880c60d2db11bf21664d7b267463c7233261",
+    "pages": 1,
+    "page_checks": [
+      {
+        "page": 1,
+        "characters": 424,
+        "rendered": true,
+        "images": 1,
+        "drawings": 424,
+        "private_use": 0,
+        "replacement": 0
+      }
+    ],
+    "answers_count": 25,
+    "same_as_download": true,
+    "unchanged": true
+  },
+  {
+    "file": "D:\\Users\\Jerry\\Desktop\\教師資格考試題庫\\115_國民小學_課程教學與評量(試題本)_公布用.pdf",
+    "year": 115,
+    "kind": "questions",
+    "sha256": "f257f844f3e2332f4dc23b5f7be82aecf569f8481774ff9d1ac3795e8ed51084",
+    "pages": 9,
+    "page_checks": [
+      {
+        "page": 1,
+        "characters": 609,
+        "rendered": true,
+        "images": 1,
+        "drawings": 12,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 2,
+        "characters": 1077,
+        "rendered": true,
+        "images": 1,
+        "drawings": 13,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 3,
+        "characters": 849,
+        "rendered": true,
+        "images": 1,
+        "drawings": 2,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 4,
+        "characters": 1297,
+        "rendered": true,
+        "images": 1,
+        "drawings": 0,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 5,
+        "characters": 1147,
+        "rendered": true,
+        "images": 1,
+        "drawings": 73,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 6,
+        "characters": 1171,
+        "rendered": true,
+        "images": 1,
+        "drawings": 0,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 7,
+        "characters": 1090,
+        "rendered": true,
+        "images": 1,
+        "drawings": 144,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 8,
+        "characters": 1118,
+        "rendered": true,
+        "images": 1,
+        "drawings": 109,
+        "private_use": 0,
+        "replacement": 0
+      },
+      {
+        "page": 9,
+        "characters": 711,
+        "rendered": true,
+        "images": 1,
+        "drawings": 149,
+        "private_use": 0,
+        "replacement": 0
+      }
+    ],
+    "answers_count": null,
+    "same_as_download": true,
+    "unchanged": true
+  },
+  {
+    "file": "D:\\Users\\Jerry\\Desktop\\教師資格考試題庫\\115_國民小學_課程教學與評量(選擇題參考答案)_公布用.pdf",
+    "year": 115,
+    "kind": "answers",
+    "sha256": "0134a6766953637b0036c2edf61216d01032cc980ee58f4b671e3477f7e9717e",
+    "pages": 1,
+    "page_checks": [
+      {
+        "page": 1,
+        "characters": 425,
+        "rendered": true,
+        "images": 1,
+        "drawings": 424,
+        "private_use": 0,
+        "replacement": 0
+      }
+    ],
+    "answers_count": 25,
+    "same_as_download": true,
+    "unchanged": true
+  }
+]

@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#263dae">
+  <title>教師資格考試｜期中考複習題庫</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="questions.js"></script>
+  <script defer src="explanations.js"></script>
+  <script defer src="core.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+<a class="skip" href="#main">跳至主要內容</a>
+<div class="shell">
+  <aside class="sidebar">
+    <a class="brand" href="#home" aria-label="返回首頁"><span class="brand-mark">習</span><span>教檢練習室<small>課程教學與評量｜學習筆記</small></span></a>
+    <p class="nav-label">我的學習空間</p>
+    <nav aria-label="主要導覽">
+      <a href="#home" data-nav="home"><span aria-hidden="true">⌂</span>學習首頁</a>
+      <a href="#read" data-nav="read"><span aria-hidden="true">▤</span>閱讀題庫</a>
+      <a href="#quiz" data-nav="quiz"><span aria-hidden="true">✎</span>隨機測驗</a>
+      <a href="#wrong" data-nav="wrong"><span aria-hidden="true">↻</span>錯題本 <b id="nav-wrong">0</b></a>
+    </nav>
+    <div class="side-note"><span class="tiny-label">本次複習範圍</span><strong>課程教學與評量</strong><p>110—115 年指定考題<br>先理解，再練習。</p><div class="mini-line"></div><small>個人期中考複習使用</small></div>
+    <div class="backup-actions"><button id="export" class="quiet">↓ 匯出學習備份</button><label class="quiet file-label" for="import">↑ 匯入學習備份</label><input id="import" type="file" accept="application/json,.json" hidden></div>
+    <small class="local-note">紀錄保存在此瀏覽器，建議定期備份。</small>
+  </aside>
+  <div class="workspace">
+    <header class="topbar"><span>研究所期中考 <span class="slash">/</span> 個人複習題庫</span><span class="offline"><i></i>離線可用 · 免登入</span></header>
+    <main id="main" tabindex="-1"></main>
+    <footer>每次多理解一點，準備就更踏實一點。<span>原始試題依提供 PDF 收錄 · 解析為補充教學內容</span></footer>
+  </div>
+</div>
+<div id="toast" role="status" aria-live="polite"></div>
+<noscript>本網站需要啟用 JavaScript。請在一般瀏覽器中開啟 index.html。</noscript>
+</body>
+</html>

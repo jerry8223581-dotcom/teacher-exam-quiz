@@ -1,0 +1,674 @@
+[
+  {
+    "year": 110,
+    "kind": "questions",
+    "original": "D:\\Users\\Jerry\\Downloads\\04_110國民小學_課程教學與評量(試題本).pdf",
+    "copy": "sources\\110_questions.pdf",
+    "sha256": "797269b2d55472fb22dba6af77fd31e127b885f3de590ead4ec20f6be47fc332",
+    "pages": 9,
+    "original_unchanged": true,
+    "page_checks": [
+      {
+        "pdf_page": 1,
+        "nonspace_chars": 271,
+        "image_count": 0,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "１１０年度高級中等以下學校及幼兒園教師資格考試\n\n\n\n       類科：國民小學\n\n       科目：課程教學與評量\n\n\n\n         ─作答注意事項─\n\n  考試時間："
+      },
+      {
+        "pdf_page": 2,
+        "nonspace_chars": 688,
+        "image_count": 0,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "第壹部分、選擇題（占50 分）\n    說明：用2B 鉛筆於「答案卡」上作答。第1 題至第25 題為單選題，每題2 分，答錯不倒扣。\n\n     1.《十二年國民基本教育課程綱要總"
+      },
+      {
+        "pdf_page": 3,
+        "nonspace_chars": 846,
+        "image_count": 0,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "7.下列何者符合探究教學法的精神？\n (A)老師上排球課時，請學生二人一組彼此觀察托球的姿勢，並討論改進的方法\n (B)老師介紹聯合國永續發展目標後，請學生找一篇相關的文章並撰寫心"
+      },
+      {
+        "pdf_page": 4,
+        "nonspace_chars": 913,
+        "image_count": 0,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "14.以下針對《十二年國民基本教育課程綱要總綱》中有關課程評鑑做法的說明，\n      何者較不適當？\n       (A)學校可結合校外專業資源，提升學校課程評鑑工作的品質與效能"
+      },
+      {
+        "pdf_page": 5,
+        "nonspace_chars": 572,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 2,
+        "text_preview": "20.下列何者並非螺旋式課程考量的重點？\n  (A)學科結構的邏輯順序         (B)學生的認知結構與發展\n   (C) 學生當下的需要與興趣        (D)針對重要"
+      },
+      {
+        "pdf_page": 6,
+        "nonspace_chars": 632,
+        "image_count": 0,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "24.以下哪些符合檔案評量的敘述？\n      甲、透過檔案可做學習歷程的回顧與省思\n      乙、檔案內的資料應盡可能完整，不須篩選\n      丙、檔案資料的呈現方式，結構式"
+      },
+      {
+        "pdf_page": 7,
+        "nonspace_chars": 662,
+        "image_count": 0,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "第參部分、綜合題（占20 分）\n 說明：本部分共有5 題(題號4-8)，每一題配分標於題末。作答時應以黑色或藍色墨水的筆於\n    「答案卷」上，由左至右橫式書寫，並自行標註題號。"
+      },
+      {
+        "pdf_page": 8,
+        "nonspace_chars": 626,
+        "image_count": 0,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "閱讀下文後，回答7-8 題。\n        義安國中小地處偏遠，學區主要為泰雅族原住民部落，全校學生42 人，原住民占\n     80%。丁老師發現原有的藝術領域課程，不符合該校"
+      },
+      {
+        "pdf_page": 9,
+        "nonspace_chars": 1,
+        "image_count": 0,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "▼"
+      }
+    ]
+  },
+  {
+    "year": 110,
+    "kind": "answers",
+    "original": "D:\\Users\\Jerry\\Downloads\\110國民小學_課程教學與評量(選擇題參考答案)_公告用.pdf",
+    "copy": "sources\\110_answers.pdf",
+    "sha256": "d58bc9000a9b63289d48309089ca1ee29f3ad8e706e0f92f6a7b450fc8511d11",
+    "pages": 1,
+    "original_unchanged": true,
+    "page_checks": [
+      {
+        "pdf_page": 1,
+        "nonspace_chars": 127,
+        "image_count": 0,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "「110 年度高級中等以下學校及幼兒園教師資格考試」選擇題參考答案\n\n類科：國民小學\n科目：課程教學與評量\n\n\n 題號     1       2       3       4 "
+      }
+    ]
+  },
+  {
+    "year": 111,
+    "kind": "questions",
+    "original": "D:\\Users\\Jerry\\Downloads\\07_111_國民小學_課程教學與評量(試題本)_公布用_正卷.pdf",
+    "copy": "sources\\111_questions.pdf",
+    "sha256": "747fc08be72107670d48e9928f70803a9cc68ec7be5cbdb6cd48b96eae9408d3",
+    "pages": 9,
+    "original_unchanged": true,
+    "page_checks": [
+      {
+        "pdf_page": 1,
+        "nonspace_chars": 271,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "１１１年度高級中等以下學校及幼兒園教師資格考試\n\n\n\n       類科：國民小學\n\n       科目：課程教學與評量\n\n\n\n         ─作答注意事項─\n\n  考試時間："
+      },
+      {
+        "pdf_page": 2,
+        "nonspace_chars": 817,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "第壹部分、選擇題（占50 分）\n    說明：用2B 鉛筆於「答案卡」上作答。第1 題至第25 題為單選題，每題2 分，答錯不倒扣。\n\n\n               1. 學校進"
+      },
+      {
+        "pdf_page": 3,
+        "nonspace_chars": 896,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "8.林老師在進行國語課成語教學時，以華人慶賀生子、生女的祝賀詞「弄璋之喜」、\n 「弄瓦之喜」為例，引導學生探討文化中隱含的性別不平等議題。這樣的教學內容\n 呼應性別平等教育議題的哪"
+      },
+      {
+        "pdf_page": 4,
+        "nonspace_chars": 842,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "15.依據現行《十二年國民基本教育課程綱要總綱》：「為持續提升教學品質與學生學習\n      成效，形塑同儕共學的教學文化，校長及每位教師每學年應在學校或社群整體規劃下，\n    "
+      },
+      {
+        "pdf_page": 5,
+        "nonspace_chars": 764,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "21.根據古德拉(J. Goodlad)的課程運作層次主張，下列哪一項說法正確？\n (A)教師進行教科書解讀的歷程屬於「正式課程」\n (B)學生在課堂上實際學到的內容屬於「知覺課程"
+      },
+      {
+        "pdf_page": 6,
+        "nonspace_chars": 515,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "第貳部分、問答題（占30 分）\n    說明：本部分共有3 題(題號1-3)，每一題配分標於題末。作答時應以黑色或藍色墨水的筆於\n       「答案卷」上，由左至右橫式書寫，並自"
+      },
+      {
+        "pdf_page": 7,
+        "nonspace_chars": 504,
+        "image_count": 2,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "第參部分、綜合題（占20 分）\n 說明：本部分共有5 題(題號4-8)，每一題配分標於題末。作答時應以黑色或藍色墨水的筆於\n    「答案卷」上，由左至右橫式書寫，並自行標註題號。"
+      },
+      {
+        "pdf_page": 8,
+        "nonspace_chars": 610,
+        "image_count": 2,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "閱讀下文後，回答6-8 題。\n       五年級的童老師打算針對「冬至」主題，設計校訂統整性主題探究課程，讓學生\n     自己搓湯圓、煮湯圓及吃湯圓；他另外設計學習單，讓學生畫"
+      },
+      {
+        "pdf_page": 9,
+        "nonspace_chars": 215,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "8. 「單元三 美味冬至」的學習任務為「分組設計並完成一份熱量500 至700 大卡的湯圓\n 料理，並分享其中的文化意涵」。下表為教師對此活動所設計的評分規準(rubrics)，\n"
+      }
+    ]
+  },
+  {
+    "year": 111,
+    "kind": "answers",
+    "original": "D:\\Users\\Jerry\\Downloads\\08_111_國民小學_課程教學與評量(選擇題參考答案)_公布用_正卷.pdf",
+    "copy": "sources\\111_answers.pdf",
+    "sha256": "f17c0e9b0b3380419c4bbfe8dbb470675d82b11d2dcacef7abfcfdc724117206",
+    "pages": 1,
+    "original_unchanged": true,
+    "page_checks": [
+      {
+        "pdf_page": 1,
+        "nonspace_chars": 127,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "「111 年度高級中等以下學校及幼兒園教師資格考試」選擇題參考答案\n\n類科：國民小學\n科目：課程教學與評量\n\n\n 題號     1       2       3       4 "
+      }
+    ]
+  },
+  {
+    "year": 112,
+    "kind": "questions",
+    "original": "D:\\Users\\Jerry\\Downloads\\10-1_112國民小學_課程教學與評量(試題本)_公布用_正卷(公布用).pdf",
+    "copy": "sources\\112_questions.pdf",
+    "sha256": "388be8497bc60ccfbbc14040fc0b59a2751a3084cd0fc6c3f6b8a0e5d09faf46",
+    "pages": 8,
+    "original_unchanged": true,
+    "page_checks": [
+      {
+        "pdf_page": 1,
+        "nonspace_chars": 271,
+        "image_count": 0,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "１１２年度高級中等以下學校及幼兒園教師資格考試\n\n\n\n       類科：國民小學\n\n       科目：課程教學與評量\n\n\n\n         ―作答注意事項―\n\n  考試時間："
+      },
+      {
+        "pdf_page": 2,
+        "nonspace_chars": 838,
+        "image_count": 0,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "第壹部分、選擇題（占50 分）\n    說明：用2B 鉛筆於「答案卡」上作答。第1 題至第25 題為單選題，每題2 分，答錯不倒扣。\n\n\n      1.吳老師鼓勵學生利用課餘時間"
+      },
+      {
+        "pdf_page": 3,
+        "nonspace_chars": 810,
+        "image_count": 0,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "8.創客(Maker)的精神是動手、創新與分享，著重創造力、實作能力、問題解決能力的\n 培養。下列何者最接近創客教學的理念？\n (A)讓學生運用套裝程式，以3D 列印機仿作手機吊飾"
+      },
+      {
+        "pdf_page": 4,
+        "nonspace_chars": 848,
+        "image_count": 0,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "14.有關學習評量，下列敘述何者正確？\n       (A)適性評量就是真實評量，強調評量情境的擬真\n       (B)師資生在半年教育實習中進行教學演示，屬於實作評量\n    "
+      },
+      {
+        "pdf_page": 5,
+        "nonspace_chars": 774,
+        "image_count": 0,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "20.咚咚國小教師進行備課時，發現許多領域都有與「自我認識」相關的單元，因此教師們\n 決定調整單元順序，讓各領域中有關「自我認識」的單元都在相近的時間進行教學。\n 此課程規劃屬於下"
+      },
+      {
+        "pdf_page": 6,
+        "nonspace_chars": 554,
+        "image_count": 0,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "第貳部分、問答題（占30 分）\n    說明：本部分共有3 題(題號1-3)，每一題配分標於題末。作答時應以黑色或藍色墨水的筆於\n       「答案卷」上，由左至右橫式書寫，並自"
+      },
+      {
+        "pdf_page": 7,
+        "nonspace_chars": 600,
+        "image_count": 0,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "第參部分、綜合題（占20 分）\n說明：本部分共有5 題(題號4-8)，每一題配分標於題末。作答時應以黑色或藍色墨水的筆於\n    「答案卷」上，由左至右橫式書寫，並自行標註題號。\n"
+      },
+      {
+        "pdf_page": 8,
+        "nonspace_chars": 414,
+        "image_count": 0,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "閱讀下文後，回答7-8 題。\n        顧老師發現學生在學習社會領域課程時，常只停留在某一事件的名詞、地點、年代\n      或片段事實的認識，不易掌握整體現象發生的社會、文"
+      }
+    ]
+  },
+  {
+    "year": 112,
+    "kind": "answers",
+    "original": "D:\\Users\\Jerry\\Downloads\\10-2_112國民小學_課程教學與評量(選擇題參考答案)_公布用_正卷.pdf",
+    "copy": "sources\\112_answers.pdf",
+    "sha256": "d2e1cc86de0dc03c2aaebcd352e3558ee2dd2712baad1115a0712141f7df7fc5",
+    "pages": 1,
+    "original_unchanged": true,
+    "page_checks": [
+      {
+        "pdf_page": 1,
+        "nonspace_chars": 127,
+        "image_count": 5,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "「112 年度高級中等以下學校及幼兒園教師資格考試」選擇題參考答案\n\n類科：國民小學\n科目：課程教學與評量\n\n\n 題號     1       2       3       4 "
+      }
+    ]
+  },
+  {
+    "year": 113,
+    "kind": "questions",
+    "original": "D:\\Users\\Jerry\\Downloads\\10-1_113國民小學_課程教學與評量_正卷_浮水印.pdf",
+    "copy": "sources\\113_questions.pdf",
+    "sha256": "8a2b8c27b7ba0b14533c93bb28a171cad207cd1fa19063ba3a237c4a83be7b2b",
+    "pages": 10,
+    "original_unchanged": true,
+    "page_checks": [
+      {
+        "pdf_page": 1,
+        "nonspace_chars": 372,
+        "image_count": 4,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "１１３年度高級中等以下學校及幼兒園教師資格考試\n\n\n       類科：國民小學\n\n       科目：課程教學與評量\n\n\n          ─作答注意事項─\n\n  考試時間：８"
+      },
+      {
+        "pdf_page": 2,
+        "nonspace_chars": 860,
+        "image_count": 4,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "選擇題（占50 分）\n    說明：用2B 鉛筆於「答案卡」上作答。第1 題至第25 題為單選題，每題2 分，答錯不倒扣。\n\n\n      1.吳老師在校慶檢討會時提出：「有關上週"
+      },
+      {
+        "pdf_page": 3,
+        "nonspace_chars": 658,
+        "image_count": 4,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "7.王老師在進行「認識家鄉」單元教學時，為強化學生對該單元與當前社區議題的連結，\n 增加許多社區踏查任務，讓學生依踏查結果做專題報告。王老師的課程設計最接近\n 下列何種課程理論取向"
+      },
+      {
+        "pdf_page": 4,
+        "nonspace_chars": 698,
+        "image_count": 4,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "12.為瞭解學生的學習成效，素養導向的評量設計應與核心素養、學習重點及學習目標\n      具有對應性。就評量的概念而言，此項做法較強調評量的何種概念？\n        (A)重測"
+      },
+      {
+        "pdf_page": 5,
+        "nonspace_chars": 821,
+        "image_count": 4,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "17.成功國小每學期辦理「百工達人」講座，邀請各行各業的校友返校分享，分享內容\n 包括個人職業探索的歷程、工作介紹與甘苦談等。此活動立基於下列哪項教學理論的\n 應用？\n  (A)社"
+      },
+      {
+        "pdf_page": 6,
+        "nonspace_chars": 872,
+        "image_count": 4,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "22.許老師認為在進行組內共學之前，要先安排自學活動，學生學會基礎知識後，就能\n      提升組內共學的討論品質。下列哪些學生自學活動做法，較能確認學生學會基礎\n      知識"
+      },
+      {
+        "pdf_page": 7,
+        "nonspace_chars": 401,
+        "image_count": 4,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "非選擇題（占30 分）\n說明：本部分共有3 題(題號1-3)。作答時不可使用擦擦筆，限以黑色或藍色墨水的筆於\n   「答案卷」上「非選擇題作答區」，由左而右、由上而下、橫式書寫。須"
+      },
+      {
+        "pdf_page": 8,
+        "nonspace_chars": 243,
+        "image_count": 4,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "3.快樂國小六年級教師檢視學生某次數學段考的測驗結果。下表是其中兩道選擇題的\n      試題分析：\n         題目一：\n\n               選項       "
+      },
+      {
+        "pdf_page": 9,
+        "nonspace_chars": 816,
+        "image_count": 4,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "綜合題（占20 分）\n說明：本部分共有3 題(題號4-6)，作答時不可使用擦擦筆，限以黑色或藍色墨水的筆於「答案\n   卷」上「綜合題作答區」，由左而右、由上而下、橫式書寫，並自行"
+      },
+      {
+        "pdf_page": 10,
+        "nonspace_chars": 139,
+        "image_count": 5,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "6.體驗學習是指體驗、反省、總結領會和應用的循環學習歷程(如下圖)，以這樣的概念\n      搭配學習目標，檢視「閃閃小農夫」的課程設計，就「反省」與「應用」兩項歷程\n      "
+      }
+    ]
+  },
+  {
+    "year": 113,
+    "kind": "answers",
+    "original": "D:\\Users\\Jerry\\Downloads\\10-2_113國民小學_課程教學與評量(選擇題參考答案)_公告用_正卷_浮水印.pdf",
+    "copy": "sources\\113_answers.pdf",
+    "sha256": "6f9c7c5198cc445d5d149c829854cf8f2358e56b9054a869db231986fcad9ae2",
+    "pages": 1,
+    "original_unchanged": true,
+    "page_checks": [
+      {
+        "pdf_page": 1,
+        "nonspace_chars": 127,
+        "image_count": 5,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "「113 年度高級中等以下學校及幼兒園教師資格考試」選擇題參考答案\n\n類科：國民小學\n科目：課程教學與評量\n\n\n 題號     1       2       3       4 "
+      }
+    ]
+  },
+  {
+    "year": 114,
+    "kind": "questions",
+    "original": "D:\\Users\\Jerry\\Downloads\\114_國民小學_課程教學與評量(試題本)_公布用.pdf",
+    "copy": "sources\\114_questions.pdf",
+    "sha256": "e4080ffa22edbaa6da882abe2bb054e1715db21c8b3a7eacbc60fdd2fac10db1",
+    "pages": 9,
+    "original_unchanged": true,
+    "page_checks": [
+      {
+        "pdf_page": 1,
+        "nonspace_chars": 442,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "１１４年度高級中等以下學校及幼兒園教師資格考試\n\n\n\n       類科：國民小學\n\n       科目：課程教學與評量\n\n\n\n          ─作答注意事項─\n\n  考試時間"
+      },
+      {
+        "pdf_page": 2,
+        "nonspace_chars": 728,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "選擇題（占50 分）\n    說明：用黑色2B 軟芯鉛筆劃記於「答案卡」上作答。第1 題至第25 題為單選題，每題2 分，\n       答錯不倒扣。\n\n\n      1.蔡老師在"
+      },
+      {
+        "pdf_page": 3,
+        "nonspace_chars": 956,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "7.陳老師在教學一學期後，發現學生的學習成效未如預期。他檢視自己的教學設計與\n 歷程後進行省思，並在領域教學研究會中分享自己的省思與改進方案，下列何者\n 最符合陳老師對自身教學活動"
+      },
+      {
+        "pdf_page": 4,
+        "nonspace_chars": 690,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "13.為了幫助學生學習管理情緒，根據《教育部社會情緒學習中長程計畫》，下列做法\n        何者最符合社會情緒學習(social and emotional learning,"
+      },
+      {
+        "pdf_page": 5,
+        "nonspace_chars": 598,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "18.小利是高成就的學生，他已精熟課堂的學習內容，教師的教學難以引起他的學習動機。\n 下列何者最可能滿足小利的學習需求？\n (A)提供挑戰激發他的學習欲望\n (B)連結生活經驗幫助"
+      },
+      {
+        "pdf_page": 6,
+        "nonspace_chars": 704,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "22.下列有關教學評量的敘述，哪些是正確的？\n      甲、評量若要強調實際生活的表現，建議採用實作評量\n      乙、為了能看到學習歷程與省思活動，可以使用檔案評量\n    "
+      },
+      {
+        "pdf_page": 7,
+        "nonspace_chars": 790,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "非選擇題（占30 分）\n 說明：本部分共有3 題(題號1-3)。作答時不可使用擦擦筆，限以黑色或藍色墨水的筆於「答\n   案卷」上，由左而右、由上而下、橫式書寫，並應在規定之「非選"
+      },
+      {
+        "pdf_page": 8,
+        "nonspace_chars": 669,
+        "image_count": 2,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "綜合題（占20 分）\n   說明：本部分共有3 題(題號4-6)。作答時不可使用擦擦筆，限以黑色或藍色墨水的筆於「答\n      案卷」上，由左而右、由上而下、橫式書寫，並應在規定"
+      },
+      {
+        "pdf_page": 9,
+        "nonspace_chars": 334,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "4.王老師在活動一請學生發想故事後續情節的做法，最接近下列何種討論方式？\n (A)滾雪球式討論、(B)六六討論法、(C)六頂思考帽、(D)腦力激盪，並說明選擇此選項\n 的理由。(4"
+      }
+    ]
+  },
+  {
+    "year": 114,
+    "kind": "answers",
+    "original": "D:\\Users\\Jerry\\Downloads\\114_國民小學_課程教學與評量(選擇題參考答案)_公布用.pdf",
+    "copy": "sources\\114_answers.pdf",
+    "sha256": "c3abd4d093235310580ac3434a98880c60d2db11bf21664d7b267463c7233261",
+    "pages": 1,
+    "original_unchanged": true,
+    "page_checks": [
+      {
+        "pdf_page": 1,
+        "nonspace_chars": 127,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "「114 年度高級中等以下學校及幼兒園教師資格考試」選擇題參考答案\n\n類科：國民小學\n科目：課程教學與評量\n\n\n 題號     1       2       3       4 "
+      }
+    ]
+  },
+  {
+    "year": 115,
+    "kind": "questions",
+    "original": "D:\\Users\\Jerry\\Downloads\\115_國民小學_課程教學與評量(試題本)_公布用.pdf",
+    "copy": "sources\\115_questions.pdf",
+    "sha256": "f257f844f3e2332f4dc23b5f7be82aecf569f8481774ff9d1ac3795e8ed51084",
+    "pages": 9,
+    "original_unchanged": true,
+    "page_checks": [
+      {
+        "pdf_page": 1,
+        "nonspace_chars": 437,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "１１５年度高級中等以下學校及幼兒園教師資格考試\n\n\n\n       類科：國民小學\n\n       科目：課程教學與評量\n\n\n\n          ─作答注意事項─\n\n  考試時間"
+      },
+      {
+        "pdf_page": 2,
+        "nonspace_chars": 726,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "選擇題（占50 分）\n    說明：用黑色2B 軟芯鉛筆劃記於「答案卡」上。第1 題至第25 題為單選題，每題2 分，答錯\n       不倒扣。\n\n\n      1.樂樂國小五年"
+      },
+      {
+        "pdf_page": 3,
+        "nonspace_chars": 689,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "6.下列哪一個教學做法沒有融入社會情緒學習(SEL)？\n (A)小組討論時，教師提醒學生注意溝通態度，尊重不同的觀點\n (B)小組進行專題探究活動時，教師安排學生練習不同探究技巧\n"
+      },
+      {
+        "pdf_page": 4,
+        "nonspace_chars": 829,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "11.蔡老師在進行臺灣地質主題教學前，先展示幾張學生熟悉的景觀照片，如野柳女王頭、\n      高雄月世界、太魯閣峽谷等，以學生的背景知識為基礎，進一步學習抽象的地質概念。\n   "
+      },
+      {
+        "pdf_page": 5,
+        "nonspace_chars": 800,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "17.下表是某道選擇題高分組和低分組學生在各選項的選答比例，哪一個選項較具有\n 誘答性？\n\n                    選項\n     組別\n             "
+      },
+      {
+        "pdf_page": 6,
+        "nonspace_chars": 876,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "22.陳老師運用平板進行教學時，發現多數學生因不善於使用平板完成學習任務，而用\n      平板玩遊戲或觀看短片。為改善此現象，下列哪一項教學策略較適當？\n       (A)嚴格"
+      },
+      {
+        "pdf_page": 7,
+        "nonspace_chars": 502,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "非選擇題（占30 分）\n 說明：本部分共有3 題(題號1-3)。作答時不可使用擦擦筆，限用黑色或藍色墨水的筆，由左\n   而右由上而下橫式書寫。並應在規定之「非選擇題作答區」內依照"
+      },
+      {
+        "pdf_page": 8,
+        "nonspace_chars": 700,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "3.桃李國小教師團隊共同規劃「校園植物探索」主題課程，期望透過實地觀察、資料\n      蒐集與成果發表活動，提升學生的合作與探究能力。教師團隊運用CIPP 評鑑模式\n      "
+      },
+      {
+        "pdf_page": 9,
+        "nonspace_chars": 329,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "4.依據教務主任的第一點回饋，潛在課程的意涵為何？從文本情境舉出二個潛在課程的\n 具體實例及說明理由(在作答區內標註A、B、C、D、E，並分別寫出答案)。(8 分)\n\n    潛在"
+      }
+    ]
+  },
+  {
+    "year": 115,
+    "kind": "answers",
+    "original": "D:\\Users\\Jerry\\Downloads\\115_國民小學_課程教學與評量(選擇題參考答案)_公布用.pdf",
+    "copy": "sources\\115_answers.pdf",
+    "sha256": "0134a6766953637b0036c2edf61216d01032cc980ee58f4b671e3477f7e9717e",
+    "pages": 1,
+    "original_unchanged": true,
+    "page_checks": [
+      {
+        "pdf_page": 1,
+        "nonspace_chars": 127,
+        "image_count": 1,
+        "render_ok": true,
+        "replacement_characters": 0,
+        "private_use_chars": 0,
+        "text_preview": "「115 年度高級中等以下學校及幼兒園教師資格考試」選擇題參考答案\n\n類科：國民小學\n科目：課程教學與評量\n\n\n 題號     1       2       3       4 "
+      }
+    ]
+  }
+]
